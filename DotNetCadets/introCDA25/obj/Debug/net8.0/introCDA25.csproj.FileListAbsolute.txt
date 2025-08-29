@@ -1,0 +1,14 @@
+/Users/jakeyjake/Documents/DotNetCadets/introCDA25/bin/Debug/net8.0/introCDA25
+/Users/jakeyjake/Documents/DotNetCadets/introCDA25/bin/Debug/net8.0/introCDA25.deps.json
+/Users/jakeyjake/Documents/DotNetCadets/introCDA25/bin/Debug/net8.0/introCDA25.runtimeconfig.json
+/Users/jakeyjake/Documents/DotNetCadets/introCDA25/bin/Debug/net8.0/introCDA25.dll
+/Users/jakeyjake/Documents/DotNetCadets/introCDA25/bin/Debug/net8.0/introCDA25.pdb
+/Users/jakeyjake/Documents/DotNetCadets/introCDA25/obj/Debug/net8.0/introCDA25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakeyjake/Documents/DotNetCadets/introCDA25/obj/Debug/net8.0/introCDA25.AssemblyInfoInputs.cache
+/Users/jakeyjake/Documents/DotNetCadets/introCDA25/obj/Debug/net8.0/introCDA25.AssemblyInfo.cs
+/Users/jakeyjake/Documents/DotNetCadets/introCDA25/obj/Debug/net8.0/introCDA25.csproj.CoreCompileInputs.cache
+/Users/jakeyjake/Documents/DotNetCadets/introCDA25/obj/Debug/net8.0/introCDA25.dll
+/Users/jakeyjake/Documents/DotNetCadets/introCDA25/obj/Debug/net8.0/refint/introCDA25.dll
+/Users/jakeyjake/Documents/DotNetCadets/introCDA25/obj/Debug/net8.0/introCDA25.pdb
+/Users/jakeyjake/Documents/DotNetCadets/introCDA25/obj/Debug/net8.0/introCDA25.genruntimeconfig.cache
+/Users/jakeyjake/Documents/DotNetCadets/introCDA25/obj/Debug/net8.0/ref/introCDA25.dll

@@ -1,0 +1,14 @@
+/Users/jakeyjake/Documents/DotNetCadets/SplitSmart/bin/Debug/net8.0/SplitSmart
+/Users/jakeyjake/Documents/DotNetCadets/SplitSmart/bin/Debug/net8.0/SplitSmart.deps.json
+/Users/jakeyjake/Documents/DotNetCadets/SplitSmart/bin/Debug/net8.0/SplitSmart.runtimeconfig.json
+/Users/jakeyjake/Documents/DotNetCadets/SplitSmart/bin/Debug/net8.0/SplitSmart.dll
+/Users/jakeyjake/Documents/DotNetCadets/SplitSmart/bin/Debug/net8.0/SplitSmart.pdb
+/Users/jakeyjake/Documents/DotNetCadets/SplitSmart/obj/Debug/net8.0/SplitSmart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakeyjake/Documents/DotNetCadets/SplitSmart/obj/Debug/net8.0/SplitSmart.AssemblyInfoInputs.cache
+/Users/jakeyjake/Documents/DotNetCadets/SplitSmart/obj/Debug/net8.0/SplitSmart.AssemblyInfo.cs
+/Users/jakeyjake/Documents/DotNetCadets/SplitSmart/obj/Debug/net8.0/SplitSmart.csproj.CoreCompileInputs.cache
+/Users/jakeyjake/Documents/DotNetCadets/SplitSmart/obj/Debug/net8.0/SplitSmart.dll
+/Users/jakeyjake/Documents/DotNetCadets/SplitSmart/obj/Debug/net8.0/refint/SplitSmart.dll
+/Users/jakeyjake/Documents/DotNetCadets/SplitSmart/obj/Debug/net8.0/SplitSmart.pdb
+/Users/jakeyjake/Documents/DotNetCadets/SplitSmart/obj/Debug/net8.0/SplitSmart.genruntimeconfig.cache
+/Users/jakeyjake/Documents/DotNetCadets/SplitSmart/obj/Debug/net8.0/ref/SplitSmart.dll
