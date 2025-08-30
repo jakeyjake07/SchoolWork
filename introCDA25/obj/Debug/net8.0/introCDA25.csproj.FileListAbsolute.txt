@@ -1,0 +1,14 @@
+C:\Users\jaako\Desktop\Projects\SchoolWork\introCDA25\bin\Debug\net8.0\introCDA25.exe
+C:\Users\jaako\Desktop\Projects\SchoolWork\introCDA25\bin\Debug\net8.0\introCDA25.deps.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\introCDA25\bin\Debug\net8.0\introCDA25.runtimeconfig.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\introCDA25\bin\Debug\net8.0\introCDA25.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\introCDA25\bin\Debug\net8.0\introCDA25.pdb
+C:\Users\jaako\Desktop\Projects\SchoolWork\introCDA25\obj\Debug\net8.0\introCDA25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaako\Desktop\Projects\SchoolWork\introCDA25\obj\Debug\net8.0\introCDA25.AssemblyInfoInputs.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\introCDA25\obj\Debug\net8.0\introCDA25.AssemblyInfo.cs
+C:\Users\jaako\Desktop\Projects\SchoolWork\introCDA25\obj\Debug\net8.0\introCDA25.csproj.CoreCompileInputs.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\introCDA25\obj\Debug\net8.0\introCDA25.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\introCDA25\obj\Debug\net8.0\refint\introCDA25.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\introCDA25\obj\Debug\net8.0\introCDA25.pdb
+C:\Users\jaako\Desktop\Projects\SchoolWork\introCDA25\obj\Debug\net8.0\introCDA25.genruntimeconfig.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\introCDA25\obj\Debug\net8.0\ref\introCDA25.dll
