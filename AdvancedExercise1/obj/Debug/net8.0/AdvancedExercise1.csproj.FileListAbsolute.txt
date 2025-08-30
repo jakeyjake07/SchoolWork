@@ -12,3 +12,4 @@ C:\Users\jaako\Desktop\Projects\SchoolWork\AdvancedExercise1\obj\Debug\net8.0\re
 C:\Users\jaako\Desktop\Projects\SchoolWork\AdvancedExercise1\obj\Debug\net8.0\AdvancedExercise1.pdb
 C:\Users\jaako\Desktop\Projects\SchoolWork\AdvancedExercise1\obj\Debug\net8.0\AdvancedExercise1.genruntimeconfig.cache
 C:\Users\jaako\Desktop\Projects\SchoolWork\AdvancedExercise1\obj\Debug\net8.0\ref\AdvancedExercise1.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\AdvancedExercise1\obj\Debug\net8.0\AdvancedExercise1.sourcelink.json
