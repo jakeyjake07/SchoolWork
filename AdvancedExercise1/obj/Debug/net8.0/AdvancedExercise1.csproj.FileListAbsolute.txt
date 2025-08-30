@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\jaako\Desktop\Projects\SchoolWork\AdvancedExercise1\bin\Debug\net8.0\AdvancedExercise1.exe
 C:\Users\jaako\Desktop\Projects\SchoolWork\AdvancedExercise1\bin\Debug\net8.0\AdvancedExercise1.deps.json
 C:\Users\jaako\Desktop\Projects\SchoolWork\AdvancedExercise1\bin\Debug\net8.0\AdvancedExercise1.runtimeconfig.json
@@ -13,3 +14,34 @@ C:\Users\jaako\Desktop\Projects\SchoolWork\AdvancedExercise1\obj\Debug\net8.0\Ad
 C:\Users\jaako\Desktop\Projects\SchoolWork\AdvancedExercise1\obj\Debug\net8.0\AdvancedExercise1.genruntimeconfig.cache
 C:\Users\jaako\Desktop\Projects\SchoolWork\AdvancedExercise1\obj\Debug\net8.0\ref\AdvancedExercise1.dll
 C:\Users\jaako\Desktop\Projects\SchoolWork\AdvancedExercise1\obj\Debug\net8.0\AdvancedExercise1.sourcelink.json
+=======
+C:/Users/jaako/Desktop/Projects/SchoolWork/AdvancedExercise1/bin/Debug/net8.0/AdvancedExercise1.exe
+C:/Users/jaako/Desktop/Projects/SchoolWork/AdvancedExercise1/bin/Debug/net8.0/AdvancedExercise1.deps.json
+C:/Users/jaako/Desktop/Projects/SchoolWork/AdvancedExercise1/bin/Debug/net8.0/AdvancedExercise1.runtimeconfig.json
+C:/Users/jaako/Desktop/Projects/SchoolWork/AdvancedExercise1/bin/Debug/net8.0/AdvancedExercise1.dll
+C:/Users/jaako/Desktop/Projects/SchoolWork/AdvancedExercise1/bin/Debug/net8.0/AdvancedExercise1.pdb
+C:/Users/jaako/Desktop/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/AdvancedExercise1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/jaako/Desktop/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/AdvancedExercise1.AssemblyInfoInputs.cache
+C:/Users/jaako/Desktop/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/AdvancedExercise1.AssemblyInfo.cs
+C:/Users/jaako/Desktop/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/AdvancedExercise1.csproj.CoreCompileInputs.cache
+C:/Users/jaako/Desktop/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/AdvancedExercise1.dll
+C:/Users/jaako/Desktop/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/refint/AdvancedExercise1.dll
+C:/Users/jaako/Desktop/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/AdvancedExercise1.pdb
+C:/Users/jaako/Desktop/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/AdvancedExercise1.genruntimeconfig.cache
+C:/Users/jaako/Desktop/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/ref/AdvancedExercise1.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/AdvancedExercise1/bin/Debug/net8.0/AdvancedExercise1
+/Users/jakeyjake/Documents/Projects/SchoolWork/AdvancedExercise1/bin/Debug/net8.0/AdvancedExercise1.deps.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/AdvancedExercise1/bin/Debug/net8.0/AdvancedExercise1.runtimeconfig.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/AdvancedExercise1/bin/Debug/net8.0/AdvancedExercise1.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/AdvancedExercise1/bin/Debug/net8.0/AdvancedExercise1.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/AdvancedExercise1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakeyjake/Documents/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/AdvancedExercise1.AssemblyInfoInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/AdvancedExercise1.AssemblyInfo.cs
+/Users/jakeyjake/Documents/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/AdvancedExercise1.csproj.CoreCompileInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/AdvancedExercise1.sourcelink.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/AdvancedExercise1.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/refint/AdvancedExercise1.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/AdvancedExercise1.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/AdvancedExercise1.genruntimeconfig.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/AdvancedExercise1/obj/Debug/net8.0/ref/AdvancedExercise1.dll
+>>>>>>> 160c6eaee4efd9c02d4c996e55fa3eb53df44b98
