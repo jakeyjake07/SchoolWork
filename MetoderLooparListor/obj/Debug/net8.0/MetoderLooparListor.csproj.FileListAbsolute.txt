@@ -1,0 +1,15 @@
+/Users/jakeyjake/Documents/Projects/SchoolWork/MetoderLooparListor/bin/Debug/net8.0/MetoderLooparListor
+/Users/jakeyjake/Documents/Projects/SchoolWork/MetoderLooparListor/bin/Debug/net8.0/MetoderLooparListor.deps.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/MetoderLooparListor/bin/Debug/net8.0/MetoderLooparListor.runtimeconfig.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/MetoderLooparListor/bin/Debug/net8.0/MetoderLooparListor.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/MetoderLooparListor/bin/Debug/net8.0/MetoderLooparListor.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/MetoderLooparListor/obj/Debug/net8.0/MetoderLooparListor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakeyjake/Documents/Projects/SchoolWork/MetoderLooparListor/obj/Debug/net8.0/MetoderLooparListor.AssemblyInfoInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/MetoderLooparListor/obj/Debug/net8.0/MetoderLooparListor.AssemblyInfo.cs
+/Users/jakeyjake/Documents/Projects/SchoolWork/MetoderLooparListor/obj/Debug/net8.0/MetoderLooparListor.csproj.CoreCompileInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/MetoderLooparListor/obj/Debug/net8.0/MetoderLooparListor.sourcelink.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/MetoderLooparListor/obj/Debug/net8.0/MetoderLooparListor.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/MetoderLooparListor/obj/Debug/net8.0/refint/MetoderLooparListor.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/MetoderLooparListor/obj/Debug/net8.0/MetoderLooparListor.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/MetoderLooparListor/obj/Debug/net8.0/MetoderLooparListor.genruntimeconfig.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/MetoderLooparListor/obj/Debug/net8.0/ref/MetoderLooparListor.dll
