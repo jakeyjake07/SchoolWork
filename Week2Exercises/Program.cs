@@ -375,28 +375,27 @@ class Program
         System.Console.WriteLine("Let's create a list of hobbies!");
         System.Console.WriteLine("Enter a hobby and type stop when you are done:");
 
-        List<string> hobbies = new List<string>();
+        List<string> hobbies = [];
 
         while (true)
         {
             string hobby = Console.ReadLine();
-
             if (hobby.ToLower() == "stop")
             {
                 break;
             }
+            else
+            {
+                hobbies.Add(hobby);
+            }
 
-            hobbies.Add(hobby);
         }
 
-        foreach (string hobby in hobbies)
+        System.Console.WriteLine("Your hobbies are:");
+        foreach (string item in hobbies)
         {
-            System.Console.WriteLine(hobby); 
+            System.Console.WriteLine(item);
         }
-
-
 
     }
-
-
 }

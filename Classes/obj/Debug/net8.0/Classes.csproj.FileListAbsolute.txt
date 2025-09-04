@@ -1,0 +1,15 @@
+/Users/jakeyjake/Documents/Projects/SchoolWork/Classes/bin/Debug/net8.0/Classes
+/Users/jakeyjake/Documents/Projects/SchoolWork/Classes/bin/Debug/net8.0/Classes.deps.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/Classes/bin/Debug/net8.0/Classes.runtimeconfig.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/Classes/bin/Debug/net8.0/Classes.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/Classes/bin/Debug/net8.0/Classes.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/Classes/obj/Debug/net8.0/Classes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakeyjake/Documents/Projects/SchoolWork/Classes/obj/Debug/net8.0/Classes.AssemblyInfoInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/Classes/obj/Debug/net8.0/Classes.AssemblyInfo.cs
+/Users/jakeyjake/Documents/Projects/SchoolWork/Classes/obj/Debug/net8.0/Classes.csproj.CoreCompileInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/Classes/obj/Debug/net8.0/Classes.sourcelink.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/Classes/obj/Debug/net8.0/Classes.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/Classes/obj/Debug/net8.0/refint/Classes.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/Classes/obj/Debug/net8.0/Classes.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/Classes/obj/Debug/net8.0/Classes.genruntimeconfig.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/Classes/obj/Debug/net8.0/ref/Classes.dll

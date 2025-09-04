@@ -1,0 +1,15 @@
+/Users/jakeyjake/Documents/Projects/SchoolWork/SuperHeroes/bin/Debug/net8.0/SuperHeroes
+/Users/jakeyjake/Documents/Projects/SchoolWork/SuperHeroes/bin/Debug/net8.0/SuperHeroes.deps.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/SuperHeroes/bin/Debug/net8.0/SuperHeroes.runtimeconfig.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/SuperHeroes/bin/Debug/net8.0/SuperHeroes.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/SuperHeroes/bin/Debug/net8.0/SuperHeroes.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/SuperHeroes/obj/Debug/net8.0/SuperHeroes.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakeyjake/Documents/Projects/SchoolWork/SuperHeroes/obj/Debug/net8.0/SuperHeroes.AssemblyInfoInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/SuperHeroes/obj/Debug/net8.0/SuperHeroes.AssemblyInfo.cs
+/Users/jakeyjake/Documents/Projects/SchoolWork/SuperHeroes/obj/Debug/net8.0/SuperHeroes.csproj.CoreCompileInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/SuperHeroes/obj/Debug/net8.0/SuperHeroes.sourcelink.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/SuperHeroes/obj/Debug/net8.0/SuperHeroes.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/SuperHeroes/obj/Debug/net8.0/refint/SuperHeroes.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/SuperHeroes/obj/Debug/net8.0/SuperHeroes.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/SuperHeroes/obj/Debug/net8.0/SuperHeroes.genruntimeconfig.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/SuperHeroes/obj/Debug/net8.0/ref/SuperHeroes.dll
