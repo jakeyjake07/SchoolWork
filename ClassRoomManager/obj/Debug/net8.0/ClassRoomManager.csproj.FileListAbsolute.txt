@@ -1,0 +1,15 @@
+/Users/jakeyjake/Documents/Projects/SchoolWork/ClassRoomManager/bin/Debug/net8.0/ClassRoomManager
+/Users/jakeyjake/Documents/Projects/SchoolWork/ClassRoomManager/bin/Debug/net8.0/ClassRoomManager.deps.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/ClassRoomManager/bin/Debug/net8.0/ClassRoomManager.runtimeconfig.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/ClassRoomManager/bin/Debug/net8.0/ClassRoomManager.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/ClassRoomManager/bin/Debug/net8.0/ClassRoomManager.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/ClassRoomManager/obj/Debug/net8.0/ClassRoomManager.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakeyjake/Documents/Projects/SchoolWork/ClassRoomManager/obj/Debug/net8.0/ClassRoomManager.AssemblyInfoInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/ClassRoomManager/obj/Debug/net8.0/ClassRoomManager.AssemblyInfo.cs
+/Users/jakeyjake/Documents/Projects/SchoolWork/ClassRoomManager/obj/Debug/net8.0/ClassRoomManager.csproj.CoreCompileInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/ClassRoomManager/obj/Debug/net8.0/ClassRoomManager.sourcelink.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/ClassRoomManager/obj/Debug/net8.0/ClassRoomManager.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/ClassRoomManager/obj/Debug/net8.0/refint/ClassRoomManager.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/ClassRoomManager/obj/Debug/net8.0/ClassRoomManager.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/ClassRoomManager/obj/Debug/net8.0/ClassRoomManager.genruntimeconfig.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/ClassRoomManager/obj/Debug/net8.0/ref/ClassRoomManager.dll

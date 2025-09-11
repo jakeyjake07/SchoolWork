@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="AdvancedExercise1/AdvancedExercise1.csproj" />
   <Project Path="Classes/Classes.csproj" />
+  <Project Path="ClassRoomManager/ClassRoomManager.csproj" />
   <Project Path="intro2CDA25/intro2CDA25.csproj" />
   <Project Path="introCDA25/introCDA25.csproj" />
   <Project Path="MetoderLooparListor/MetoderLooparListor.csproj" />
