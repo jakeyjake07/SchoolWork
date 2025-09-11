@@ -1,0 +1,15 @@
+C:\Users\jaako\Desktop\Projects\SchoolWork\MethodExercises\obj\Debug\net8.0\MethodExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaako\Desktop\Projects\SchoolWork\MethodExercises\obj\Debug\net8.0\MethodExercises.AssemblyInfoInputs.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\MethodExercises\obj\Debug\net8.0\MethodExercises.AssemblyInfo.cs
+C:\Users\jaako\Desktop\Projects\SchoolWork\MethodExercises\obj\Debug\net8.0\MethodExercises.csproj.CoreCompileInputs.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\MethodExercises\obj\Debug\net8.0\MethodExercises.sourcelink.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\MethodExercises\bin\Debug\net8.0\MethodExercises.exe
+C:\Users\jaako\Desktop\Projects\SchoolWork\MethodExercises\bin\Debug\net8.0\MethodExercises.deps.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\MethodExercises\bin\Debug\net8.0\MethodExercises.runtimeconfig.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\MethodExercises\bin\Debug\net8.0\MethodExercises.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\MethodExercises\bin\Debug\net8.0\MethodExercises.pdb
+C:\Users\jaako\Desktop\Projects\SchoolWork\MethodExercises\obj\Debug\net8.0\MethodExercises.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\MethodExercises\obj\Debug\net8.0\refint\MethodExercises.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\MethodExercises\obj\Debug\net8.0\MethodExercises.pdb
+C:\Users\jaako\Desktop\Projects\SchoolWork\MethodExercises\obj\Debug\net8.0\MethodExercises.genruntimeconfig.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\MethodExercises\obj\Debug\net8.0\ref\MethodExercises.dll

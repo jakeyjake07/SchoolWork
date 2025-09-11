@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jakeyjake/Documents/Projects/SchoolWork/Week2Exercises/Week2Exercises.csproj": {}
+    "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\Week2Exercises\\Week2Exercises.csproj": {}
   },
   "projects": {
-    "/Users/jakeyjake/Documents/Projects/SchoolWork/Week2Exercises/Week2Exercises.csproj": {
+    "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\Week2Exercises\\Week2Exercises.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jakeyjake/Documents/Projects/SchoolWork/Week2Exercises/Week2Exercises.csproj",
+        "projectUniqueName": "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\Week2Exercises\\Week2Exercises.csproj",
         "projectName": "Week2Exercises",
-        "projectPath": "/Users/jakeyjake/Documents/Projects/SchoolWork/Week2Exercises/Week2Exercises.csproj",
-        "packagesPath": "/Users/jakeyjake/.nuget/packages/",
-        "outputPath": "/Users/jakeyjake/Documents/Projects/SchoolWork/Week2Exercises/obj/",
+        "projectPath": "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\Week2Exercises\\Week2Exercises.csproj",
+        "packagesPath": "C:\\Users\\jaako\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\Week2Exercises\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jakeyjake/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jaako\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
