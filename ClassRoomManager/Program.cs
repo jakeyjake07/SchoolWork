@@ -17,10 +17,27 @@ class Program
         };
 
         //List of students, empty for now
-        List<Student> students = new List<Student>();
+        List<Student> students = new List<Student>()
+        {
+            new Student { Name = "Jakob", IsPresent = false, ProgramingLevel = 0, Tools = new List<Tool>() },
+            new Student { Name = "John", IsPresent = false, ProgramingLevel = 0, Tools = new List<Tool>() },
+            new Student { Name = "Mark", IsPresent = false, ProgramingLevel = 0, Tools = new List<Tool>() },
+            new Student { Name = "Erik", IsPresent = false, ProgramingLevel = 0, Tools = new List<Tool>() },
+            new Student { Name = "Frodo", IsPresent = false, ProgramingLevel = 0, Tools = new List<Tool>() }
+        };
+
+
+        List<Student> dotnetCloud25 = new List<Student>()
+        {
+            new Student { Name = "Bajs", IsPresent = false, ProgramingLevel = 0, Tools = new List<Tool>() },
+            new Student { Name = "Korv", IsPresent = false, ProgramingLevel = 0, Tools = new List<Tool>() },
+            new Student { Name = "Prutt", IsPresent = false, ProgramingLevel = 0, Tools = new List<Tool>() },
+            new Student { Name = "Hans", IsPresent = false, ProgramingLevel = 0, Tools = new List<Tool>() },
+            new Student { Name = "Mordin", IsPresent = false, ProgramingLevel = 0, Tools = new List<Tool>() }
+        };
+
 
         bool running = true;
-
         while (running)
         {
             Console.Clear();
@@ -56,7 +73,7 @@ class Program
                     break;
 
                 case 5:
-                    System.Console.WriteLine("Show Individual Student Details");
+                    ClassRoomHelper.ShowIndividual(students);
                     break;
 
                 case 6:
