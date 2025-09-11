@@ -306,30 +306,30 @@ class Program
          } */
 
 
-        /* int[] numbers = { 1, 2, 3, 4, 5 };
+        int[] numbers = { 1, 2, 3, 4, 5 };
         int sum = 0;
 
         for (int i = 0; i < numbers.Length; i++)
         {
-            sum += numbers[1];
+            sum += numbers[i];
         }
 
         int average = sum / numbers.Length;
-        System.Console.WriteLine($"The average is {average}"); */
+        System.Console.WriteLine($"The average is {average}");
 
 
         /* int[] numbers = { 32, 41, 12, 9, 94 };
         int largest = numbers[0];
 
-        for (int i = 1; i < numbers.Length; i++)
+        for (int i = 0; i < numbers.Length; i++)
         {
             if (numbers[i] > largest)
             {
                 largest = numbers[i];
             }
         }
-        System.Console.WriteLine($"The largest number is {largest}");
- */
+        System.Console.WriteLine($"The largest number is {largest}"); */
+
 
         /*  int[] numbers = { 1, 2, 3, 4, 5 };
          System.Console.WriteLine("Array in reverse order:");
@@ -372,30 +372,31 @@ class Program
             } */
 
 
-        System.Console.WriteLine("Let's create a list of hobbies!");
-        System.Console.WriteLine("Enter a hobby and type stop when you are done:");
+        /*  System.Console.WriteLine("Let's create a list of hobbies!");
+         System.Console.WriteLine("Enter a hobby and type stop when you are done:");
 
-        List<string> hobbies = [];
+         List<string> hobbies = new List<string>();
 
-        while (true)
-        {
-            string hobby = Console.ReadLine();
-            if (hobby.ToLower() == "stop")
-            {
-                break;
-            }
-            else
-            {
-                hobbies.Add(hobby);
-            }
+         while (true)
+         {
+             string hobby = Console.ReadLine();
 
-        }
+             if (hobby.ToLower() == "stop")
+             {
+                 break;
+             }
 
-        System.Console.WriteLine("Your hobbies are:");
-        foreach (string item in hobbies)
-        {
-            System.Console.WriteLine(item);
-        }
+             hobbies.Add(hobby);
+         }
+
+         foreach (string hobby in hobbies)
+         {
+             System.Console.WriteLine(hobby); 
+         } */
+
+
 
     }
+
+
 }
