@@ -1,6 +1,7 @@
 <Solution>
-  <Project Path="../SimpleGame/SimpleGame/SimpleGame.csproj" />
+  <Project Path="../SimpleGame-1/SimpleGame/SimpleGame.csproj" />
   <Project Path="AdvancedExercise1/AdvancedExercise1.csproj" />
+  <Project Path="CarCompany/CarCompany.csproj" />
   <Project Path="Classes/Classes.csproj" />
   <Project Path="ClassRoomManager/ClassRoomManager.csproj" />
   <Project Path="intro2CDA25/intro2CDA25.csproj" />
