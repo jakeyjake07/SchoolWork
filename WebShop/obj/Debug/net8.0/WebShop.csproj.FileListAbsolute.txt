@@ -1,0 +1,15 @@
+/Users/jakeyjake/Documents/Projects/SchoolWork/WebShop/bin/Debug/net8.0/WebShop
+/Users/jakeyjake/Documents/Projects/SchoolWork/WebShop/bin/Debug/net8.0/WebShop.deps.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/WebShop/bin/Debug/net8.0/WebShop.runtimeconfig.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/WebShop/bin/Debug/net8.0/WebShop.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/WebShop/bin/Debug/net8.0/WebShop.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/WebShop/obj/Debug/net8.0/WebShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakeyjake/Documents/Projects/SchoolWork/WebShop/obj/Debug/net8.0/WebShop.AssemblyInfoInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/WebShop/obj/Debug/net8.0/WebShop.AssemblyInfo.cs
+/Users/jakeyjake/Documents/Projects/SchoolWork/WebShop/obj/Debug/net8.0/WebShop.csproj.CoreCompileInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/WebShop/obj/Debug/net8.0/WebShop.sourcelink.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/WebShop/obj/Debug/net8.0/WebShop.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/WebShop/obj/Debug/net8.0/refint/WebShop.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/WebShop/obj/Debug/net8.0/WebShop.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/WebShop/obj/Debug/net8.0/WebShop.genruntimeconfig.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/WebShop/obj/Debug/net8.0/ref/WebShop.dll

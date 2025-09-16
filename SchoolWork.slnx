@@ -11,5 +11,6 @@
   <Project Path="MetoderLooparListor/MetoderLooparListor.csproj" />
   <Project Path="SimpleCalculator/SimpleCalculator.csproj" />
   <Project Path="SuperHeroes/SuperHeroes.csproj" />
+  <Project Path="WebShop/WebShop.csproj" />
   <Project Path="Week2Exercises/Week2Exercises.csproj" />
 </Solution>
