@@ -6,6 +6,7 @@ class Program
 {
     static void Main(string[] args)
     {
+        //Kommentar
         List<Product> inventory = new List<Product>()
         {
             new Book { Name = "Potato", Brand = "Potati Corp.", Price = 199.95, Author = "Bjarne Stroustrup" },
