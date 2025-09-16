@@ -4,6 +4,7 @@
   <Project Path="CarCompany/CarCompany.csproj" />
   <Project Path="Classes/Classes.csproj" />
   <Project Path="ClassRoomManager/ClassRoomManager.csproj" />
+  <Project Path="DagensDemo/DagensDemo.csproj" />
   <Project Path="intro2CDA25/intro2CDA25.csproj" />
   <Project Path="introCDA25/introCDA25.csproj" />
   <Project Path="MethodExercises/MethodExercises.csproj" />

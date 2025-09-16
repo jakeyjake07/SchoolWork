@@ -1,0 +1,15 @@
+/Users/jakeyjake/Documents/Projects/SchoolWork/DagensDemo/bin/Debug/net8.0/DagensDemo
+/Users/jakeyjake/Documents/Projects/SchoolWork/DagensDemo/bin/Debug/net8.0/DagensDemo.deps.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/DagensDemo/bin/Debug/net8.0/DagensDemo.runtimeconfig.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/DagensDemo/bin/Debug/net8.0/DagensDemo.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/DagensDemo/bin/Debug/net8.0/DagensDemo.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/DagensDemo/obj/Debug/net8.0/DagensDemo.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakeyjake/Documents/Projects/SchoolWork/DagensDemo/obj/Debug/net8.0/DagensDemo.AssemblyInfoInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/DagensDemo/obj/Debug/net8.0/DagensDemo.AssemblyInfo.cs
+/Users/jakeyjake/Documents/Projects/SchoolWork/DagensDemo/obj/Debug/net8.0/DagensDemo.csproj.CoreCompileInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/DagensDemo/obj/Debug/net8.0/DagensDemo.sourcelink.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/DagensDemo/obj/Debug/net8.0/DagensDemo.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/DagensDemo/obj/Debug/net8.0/refint/DagensDemo.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/DagensDemo/obj/Debug/net8.0/DagensDemo.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/DagensDemo/obj/Debug/net8.0/DagensDemo.genruntimeconfig.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/DagensDemo/obj/Debug/net8.0/ref/DagensDemo.dll
