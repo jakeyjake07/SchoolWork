@@ -1,0 +1,15 @@
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/bin/Debug/net8.0/PokemonPart2
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/bin/Debug/net8.0/PokemonPart2.deps.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/bin/Debug/net8.0/PokemonPart2.runtimeconfig.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/bin/Debug/net8.0/PokemonPart2.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/bin/Debug/net8.0/PokemonPart2.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/obj/Debug/net8.0/PokemonPart2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/obj/Debug/net8.0/PokemonPart2.AssemblyInfoInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/obj/Debug/net8.0/PokemonPart2.AssemblyInfo.cs
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/obj/Debug/net8.0/PokemonPart2.csproj.CoreCompileInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/obj/Debug/net8.0/PokemonPart2.sourcelink.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/obj/Debug/net8.0/PokemonPart2.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/obj/Debug/net8.0/refint/PokemonPart2.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/obj/Debug/net8.0/PokemonPart2.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/obj/Debug/net8.0/PokemonPart2.genruntimeconfig.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/obj/Debug/net8.0/ref/PokemonPart2.dll

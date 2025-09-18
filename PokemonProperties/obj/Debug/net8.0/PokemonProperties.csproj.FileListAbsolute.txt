@@ -1,0 +1,15 @@
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/bin/Debug/net8.0/PokemonProperties
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/bin/Debug/net8.0/PokemonProperties.deps.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/bin/Debug/net8.0/PokemonProperties.runtimeconfig.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/bin/Debug/net8.0/PokemonProperties.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/bin/Debug/net8.0/PokemonProperties.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/obj/Debug/net8.0/PokemonProperties.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/obj/Debug/net8.0/PokemonProperties.AssemblyInfoInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/obj/Debug/net8.0/PokemonProperties.AssemblyInfo.cs
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/obj/Debug/net8.0/PokemonProperties.csproj.CoreCompileInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/obj/Debug/net8.0/PokemonProperties.sourcelink.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/obj/Debug/net8.0/PokemonProperties.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/obj/Debug/net8.0/refint/PokemonProperties.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/obj/Debug/net8.0/PokemonProperties.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/obj/Debug/net8.0/PokemonProperties.genruntimeconfig.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/obj/Debug/net8.0/ref/PokemonProperties.dll

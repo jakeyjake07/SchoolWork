@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="../SimpleGame-1/SimpleGame/SimpleGame.csproj" />
   <Project Path="AdvancedExercise1/AdvancedExercise1.csproj" />
+  <Project Path="AnimalAbstract/AnimalAbstract.csproj" />
   <Project Path="CarCompany/CarCompany.csproj" />
   <Project Path="Classes/Classes.csproj" />
   <Project Path="ClassRoomManager/ClassRoomManager.csproj" />
@@ -9,6 +10,8 @@
   <Project Path="introCDA25/introCDA25.csproj" />
   <Project Path="MethodExercises/MethodExercises.csproj" />
   <Project Path="MetoderLooparListor/MetoderLooparListor.csproj" />
+  <Project Path="PokemonPart2/PokemonPart2.csproj" />
+  <Project Path="PokemonProperties/PokemonProperties.csproj" />
   <Project Path="SimpleCalculator/SimpleCalculator.csproj" />
   <Project Path="SuperHeroes/SuperHeroes.csproj" />
   <Project Path="WebShop/WebShop.csproj" />

@@ -1,0 +1,15 @@
+/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/bin/Debug/net8.0/AnimalAbstract
+/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/bin/Debug/net8.0/AnimalAbstract.deps.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/bin/Debug/net8.0/AnimalAbstract.runtimeconfig.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/bin/Debug/net8.0/AnimalAbstract.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/bin/Debug/net8.0/AnimalAbstract.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/obj/Debug/net8.0/AnimalAbstract.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/obj/Debug/net8.0/AnimalAbstract.AssemblyInfoInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/obj/Debug/net8.0/AnimalAbstract.AssemblyInfo.cs
+/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/obj/Debug/net8.0/AnimalAbstract.csproj.CoreCompileInputs.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/obj/Debug/net8.0/AnimalAbstract.sourcelink.json
+/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/obj/Debug/net8.0/AnimalAbstract.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/obj/Debug/net8.0/refint/AnimalAbstract.dll
+/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/obj/Debug/net8.0/AnimalAbstract.pdb
+/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/obj/Debug/net8.0/AnimalAbstract.genruntimeconfig.cache
+/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/obj/Debug/net8.0/ref/AnimalAbstract.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClassRoomManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+51e358c66f69e7f3328dac5f38a3626fdcdb9447")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8800b20606de039b69a531413ecab30ea6ff3ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClassRoomManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClassRoomManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
