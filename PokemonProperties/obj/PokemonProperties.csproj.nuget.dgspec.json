@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/PokemonProperties.csproj": {}
+    "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\PokemonProperties\\PokemonProperties.csproj": {}
   },
   "projects": {
-    "/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/PokemonProperties.csproj": {
+    "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\PokemonProperties\\PokemonProperties.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/PokemonProperties.csproj",
+        "projectUniqueName": "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\PokemonProperties\\PokemonProperties.csproj",
         "projectName": "PokemonProperties",
-        "projectPath": "/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/PokemonProperties.csproj",
-        "packagesPath": "/Users/jakeyjake/.nuget/packages/",
-        "outputPath": "/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonProperties/obj/",
+        "projectPath": "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\PokemonProperties\\PokemonProperties.csproj",
+        "packagesPath": "C:\\Users\\jaako\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\PokemonProperties\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jakeyjake/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jaako\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

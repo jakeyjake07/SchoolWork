@@ -1,0 +1,15 @@
+C:\Users\jaako\Desktop\Projects\SchoolWork\ZooDemo\bin\Debug\net8.0\ZooDemo.exe
+C:\Users\jaako\Desktop\Projects\SchoolWork\ZooDemo\bin\Debug\net8.0\ZooDemo.deps.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\ZooDemo\bin\Debug\net8.0\ZooDemo.runtimeconfig.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\ZooDemo\bin\Debug\net8.0\ZooDemo.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\ZooDemo\bin\Debug\net8.0\ZooDemo.pdb
+C:\Users\jaako\Desktop\Projects\SchoolWork\ZooDemo\obj\Debug\net8.0\ZooDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaako\Desktop\Projects\SchoolWork\ZooDemo\obj\Debug\net8.0\ZooDemo.AssemblyInfoInputs.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\ZooDemo\obj\Debug\net8.0\ZooDemo.AssemblyInfo.cs
+C:\Users\jaako\Desktop\Projects\SchoolWork\ZooDemo\obj\Debug\net8.0\ZooDemo.csproj.CoreCompileInputs.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\ZooDemo\obj\Debug\net8.0\ZooDemo.sourcelink.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\ZooDemo\obj\Debug\net8.0\ZooDemo.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\ZooDemo\obj\Debug\net8.0\refint\ZooDemo.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\ZooDemo\obj\Debug\net8.0\ZooDemo.pdb
+C:\Users\jaako\Desktop\Projects\SchoolWork\ZooDemo\obj\Debug\net8.0\ZooDemo.genruntimeconfig.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\ZooDemo\obj\Debug\net8.0\ref\ZooDemo.dll
