@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/PokemonPart2.csproj": {}
+    "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\PokemonPart2\\PokemonPart2.csproj": {}
   },
   "projects": {
-    "/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/PokemonPart2.csproj": {
+    "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\PokemonPart2\\PokemonPart2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/PokemonPart2.csproj",
+        "projectUniqueName": "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\PokemonPart2\\PokemonPart2.csproj",
         "projectName": "PokemonPart2",
-        "projectPath": "/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/PokemonPart2.csproj",
-        "packagesPath": "/Users/jakeyjake/.nuget/packages/",
-        "outputPath": "/Users/jakeyjake/Documents/Projects/SchoolWork/PokemonPart2/obj/",
+        "projectPath": "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\PokemonPart2\\PokemonPart2.csproj",
+        "packagesPath": "C:\\Users\\jaako\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\PokemonPart2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/jakeyjake/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jaako\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
