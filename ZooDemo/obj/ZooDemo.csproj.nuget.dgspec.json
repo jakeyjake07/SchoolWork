@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\ZooDemo\\ZooDemo.csproj": {}
+    "/Users/jakeyjake/Documents/Projects/SchoolWork/ZooDemo/ZooDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\ZooDemo\\ZooDemo.csproj": {
+    "/Users/jakeyjake/Documents/Projects/SchoolWork/ZooDemo/ZooDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\ZooDemo\\ZooDemo.csproj",
+        "projectUniqueName": "/Users/jakeyjake/Documents/Projects/SchoolWork/ZooDemo/ZooDemo.csproj",
         "projectName": "ZooDemo",
-        "projectPath": "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\ZooDemo\\ZooDemo.csproj",
-        "packagesPath": "C:\\Users\\jaako\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\ZooDemo\\obj\\",
+        "projectPath": "/Users/jakeyjake/Documents/Projects/SchoolWork/ZooDemo/ZooDemo.csproj",
+        "packagesPath": "/Users/jakeyjake/.nuget/packages/",
+        "outputPath": "/Users/jakeyjake/Documents/Projects/SchoolWork/ZooDemo/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jaako\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/jakeyjake/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

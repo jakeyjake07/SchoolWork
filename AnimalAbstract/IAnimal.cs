@@ -7,6 +7,8 @@ namespace AnimalAbstract
 {
     public interface IAnimal
     {
-        
+        void MakeSound();
+        void Eat();
+        void Sleep();
     }
 }
