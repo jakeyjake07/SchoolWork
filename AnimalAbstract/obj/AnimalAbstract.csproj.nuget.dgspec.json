@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/AnimalAbstract.csproj": {}
+    "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\AnimalAbstract\\AnimalAbstract.csproj": {}
   },
   "projects": {
-    "/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/AnimalAbstract.csproj": {
+    "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\AnimalAbstract\\AnimalAbstract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/AnimalAbstract.csproj",
+        "projectUniqueName": "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\AnimalAbstract\\AnimalAbstract.csproj",
         "projectName": "AnimalAbstract",
-        "projectPath": "/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/AnimalAbstract.csproj",
-        "packagesPath": "/Users/jakeyjake/.nuget/packages/",
-        "outputPath": "/Users/jakeyjake/Documents/Projects/SchoolWork/AnimalAbstract/obj/",
+        "projectPath": "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\AnimalAbstract\\AnimalAbstract.csproj",
+        "packagesPath": "C:\\Users\\jaako\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jaako\\Desktop\\Projects\\SchoolWork\\AnimalAbstract\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/jakeyjake/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\jaako\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
