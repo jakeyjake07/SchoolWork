@@ -1,0 +1,15 @@
+C:\Users\jaako\Desktop\Projects\SchoolWork\NetflixDemo\bin\Debug\net8.0\NetflixDemo.exe
+C:\Users\jaako\Desktop\Projects\SchoolWork\NetflixDemo\bin\Debug\net8.0\NetflixDemo.deps.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\NetflixDemo\bin\Debug\net8.0\NetflixDemo.runtimeconfig.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\NetflixDemo\bin\Debug\net8.0\NetflixDemo.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\NetflixDemo\bin\Debug\net8.0\NetflixDemo.pdb
+C:\Users\jaako\Desktop\Projects\SchoolWork\NetflixDemo\obj\Debug\net8.0\NetflixDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaako\Desktop\Projects\SchoolWork\NetflixDemo\obj\Debug\net8.0\NetflixDemo.AssemblyInfoInputs.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\NetflixDemo\obj\Debug\net8.0\NetflixDemo.AssemblyInfo.cs
+C:\Users\jaako\Desktop\Projects\SchoolWork\NetflixDemo\obj\Debug\net8.0\NetflixDemo.csproj.CoreCompileInputs.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\NetflixDemo\obj\Debug\net8.0\NetflixDemo.sourcelink.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\NetflixDemo\obj\Debug\net8.0\NetflixDemo.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\NetflixDemo\obj\Debug\net8.0\refint\NetflixDemo.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\NetflixDemo\obj\Debug\net8.0\NetflixDemo.pdb
+C:\Users\jaako\Desktop\Projects\SchoolWork\NetflixDemo\obj\Debug\net8.0\NetflixDemo.genruntimeconfig.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\NetflixDemo\obj\Debug\net8.0\ref\NetflixDemo.dll

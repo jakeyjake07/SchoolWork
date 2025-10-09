@@ -10,6 +10,7 @@
   <Project Path="introCDA25/introCDA25.csproj" />
   <Project Path="MethodExercises/MethodExercises.csproj" />
   <Project Path="MetoderLooparListor/MetoderLooparListor.csproj" />
+  <Project Path="NetflixDemo/NetflixDemo.csproj" />
   <Project Path="PokemonPart2/PokemonPart2.csproj" />
   <Project Path="PokemonProperties/PokemonProperties.csproj" />
   <Project Path="SimpleCalculator/SimpleCalculator.csproj" />
