@@ -12,13 +12,16 @@ namespace NetflixDemo.Models
         public string Title { get; private set; }
         public string Genre { get; private set; }
         public int ReleaseYear { get; private set; }
+        public string Language { get; private set; }
 
-        public MediaType(string title, string genre, int releaseYear)
+        public MediaType(string title, string genre, int releaseYear, string language)
         {
             Title = title;
             Genre = genre;
             ReleaseYear = releaseYear;
+            Language = language;
         }
+
 
         //Abstract method must be overriden
         public abstract void Play();
@@ -26,7 +29,12 @@ namespace NetflixDemo.Models
         //Virtual method can be overriden
         public virtual string GetSummary()
         {
-            return $"{Title} ({ReleaseYear}) - {Genre}";
+            return $"{Title} ({ReleaseYear}) - {Genre} - {Language}";
+        }
+
+        public virtual string GetAge()
+        {
+            return $"{DateTime.Now.Year - ReleaseYear}" + " years since release.";
         }
 
 

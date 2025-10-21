@@ -1,0 +1,15 @@
+C:\Users\jaako\Desktop\Projects\SchoolWork\WorldSimulator\bin\Debug\net8.0\WorldSimulator.exe
+C:\Users\jaako\Desktop\Projects\SchoolWork\WorldSimulator\bin\Debug\net8.0\WorldSimulator.deps.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\WorldSimulator\bin\Debug\net8.0\WorldSimulator.runtimeconfig.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\WorldSimulator\bin\Debug\net8.0\WorldSimulator.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\WorldSimulator\bin\Debug\net8.0\WorldSimulator.pdb
+C:\Users\jaako\Desktop\Projects\SchoolWork\WorldSimulator\obj\Debug\net8.0\WorldSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaako\Desktop\Projects\SchoolWork\WorldSimulator\obj\Debug\net8.0\WorldSimulator.AssemblyInfoInputs.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\WorldSimulator\obj\Debug\net8.0\WorldSimulator.AssemblyInfo.cs
+C:\Users\jaako\Desktop\Projects\SchoolWork\WorldSimulator\obj\Debug\net8.0\WorldSimulator.csproj.CoreCompileInputs.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\WorldSimulator\obj\Debug\net8.0\WorldSimulator.sourcelink.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\WorldSimulator\obj\Debug\net8.0\WorldSimulator.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\WorldSimulator\obj\Debug\net8.0\refint\WorldSimulator.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\WorldSimulator\obj\Debug\net8.0\WorldSimulator.pdb
+C:\Users\jaako\Desktop\Projects\SchoolWork\WorldSimulator\obj\Debug\net8.0\WorldSimulator.genruntimeconfig.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\WorldSimulator\obj\Debug\net8.0\ref\WorldSimulator.dll

@@ -17,5 +17,6 @@
   <Project Path="SuperHeroes/SuperHeroes.csproj" />
   <Project Path="WebShop/WebShop.csproj" />
   <Project Path="Week2Exercises/Week2Exercises.csproj" />
+  <Project Path="WorldSimulator/WorldSimulator.csproj" />
   <Project Path="ZooDemo/ZooDemo.csproj" />
 </Solution>

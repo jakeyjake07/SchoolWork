@@ -9,7 +9,7 @@ namespace NetflixDemo.Models
     {
 
         public int DurationMinutes { get; private set; }
-        public Movie(string title, string genre, int releaseYear, int durationMinutes) : base(title, genre, releaseYear)
+        public Movie(string title, string genre, int releaseYear, int durationMinutes, string language) : base(title, genre, releaseYear, language)
         {
             DurationMinutes = durationMinutes;
         }
