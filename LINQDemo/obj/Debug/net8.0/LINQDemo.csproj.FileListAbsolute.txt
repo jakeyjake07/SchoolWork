@@ -1,0 +1,15 @@
+C:\Users\jaako\Desktop\Projects\SchoolWork\LINQDemo\bin\Debug\net8.0\LINQDemo.exe
+C:\Users\jaako\Desktop\Projects\SchoolWork\LINQDemo\bin\Debug\net8.0\LINQDemo.deps.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\LINQDemo\bin\Debug\net8.0\LINQDemo.runtimeconfig.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\LINQDemo\bin\Debug\net8.0\LINQDemo.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\LINQDemo\bin\Debug\net8.0\LINQDemo.pdb
+C:\Users\jaako\Desktop\Projects\SchoolWork\LINQDemo\obj\Debug\net8.0\LINQDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaako\Desktop\Projects\SchoolWork\LINQDemo\obj\Debug\net8.0\LINQDemo.AssemblyInfoInputs.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\LINQDemo\obj\Debug\net8.0\LINQDemo.AssemblyInfo.cs
+C:\Users\jaako\Desktop\Projects\SchoolWork\LINQDemo\obj\Debug\net8.0\LINQDemo.csproj.CoreCompileInputs.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\LINQDemo\obj\Debug\net8.0\LINQDemo.sourcelink.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\LINQDemo\obj\Debug\net8.0\LINQDemo.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\LINQDemo\obj\Debug\net8.0\refint\LINQDemo.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\LINQDemo\obj\Debug\net8.0\LINQDemo.pdb
+C:\Users\jaako\Desktop\Projects\SchoolWork\LINQDemo\obj\Debug\net8.0\LINQDemo.genruntimeconfig.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\LINQDemo\obj\Debug\net8.0\ref\LINQDemo.dll
