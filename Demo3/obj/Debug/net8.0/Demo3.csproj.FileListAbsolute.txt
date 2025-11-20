@@ -1,0 +1,15 @@
+C:\Users\jaako\Desktop\Projects\SchoolWork\Demo3\bin\Debug\net8.0\Demo3.exe
+C:\Users\jaako\Desktop\Projects\SchoolWork\Demo3\bin\Debug\net8.0\Demo3.deps.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\Demo3\bin\Debug\net8.0\Demo3.runtimeconfig.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\Demo3\bin\Debug\net8.0\Demo3.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\Demo3\bin\Debug\net8.0\Demo3.pdb
+C:\Users\jaako\Desktop\Projects\SchoolWork\Demo3\obj\Debug\net8.0\Demo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaako\Desktop\Projects\SchoolWork\Demo3\obj\Debug\net8.0\Demo3.AssemblyInfoInputs.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\Demo3\obj\Debug\net8.0\Demo3.AssemblyInfo.cs
+C:\Users\jaako\Desktop\Projects\SchoolWork\Demo3\obj\Debug\net8.0\Demo3.csproj.CoreCompileInputs.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\Demo3\obj\Debug\net8.0\Demo3.sourcelink.json
+C:\Users\jaako\Desktop\Projects\SchoolWork\Demo3\obj\Debug\net8.0\Demo3.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\Demo3\obj\Debug\net8.0\refint\Demo3.dll
+C:\Users\jaako\Desktop\Projects\SchoolWork\Demo3\obj\Debug\net8.0\Demo3.pdb
+C:\Users\jaako\Desktop\Projects\SchoolWork\Demo3\obj\Debug\net8.0\Demo3.genruntimeconfig.cache
+C:\Users\jaako\Desktop\Projects\SchoolWork\Demo3\obj\Debug\net8.0\ref\Demo3.dll
